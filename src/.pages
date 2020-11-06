@@ -1,2 +1,7 @@
 nav:
   - index.md
+  - hardware
+  - software
+  - contribute
+  - faq.md
+  - about.md
